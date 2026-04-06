@@ -1,0 +1,251 @@
+{
+  "name": "Dark Vessel",
+  "description": "A dark theme inspired by Chara from Undertale.",
+  "authors": [
+    {
+      "name": "nabi",
+      "id": "1410396006725713982"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#0d0d0d"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#0d0d0d"
+    ],
+    "DIVIDER_STRONG": [
+      "#000000"
+    ],
+    "DIVIDER_SUBTLE": [
+      "#000000"
+    ],
+    "BORDER_SUBTLE": [
+      "#000000"
+    ],
+    "SPINE_DEFAULT": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#0d0d0d"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#0d0d0d"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "#000000"
+    ],
+    "STATUS_DANGER": [
+      "#000000"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#ffffff"
+    ],
+    "STATUS_DND": [
+      "#ff6161"
+    ],
+    "STATUS_IDLE": [
+      "#ffbc5b"
+    ],
+    "STATUS_OFFLINE": [
+      "#1a1a1a"
+    ],
+    "STATUS_ONLINE": [
+      "#48bc46"
+    ],
+    "STATUS_POSITIVE": [
+      "#000000"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#ffffff"
+    ],
+    "STATUS_SPEAKING": [
+      "#7a8c2a"
+    ],
+    "STATUS_WARNING": [
+      "#ffffff"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#000000"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#ffffff"
+    ],
+    "TEXT_BRAND": [
+      "#7a8c2a"
+    ],
+    "TEXT_DANGER": [
+      "#ff6161"
+    ],
+    "TEXT_LINK": [
+      "#7a8c2a"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#6b7a22"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#ffffff"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#5a5a5a"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#ffffff"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff"
+    ],
+    "TEXT_POSITIVE": [
+      "#ffffff"
+    ],
+    "TEXT_PRIMARY": [
+      "#ffffff"
+    ],
+    "TEXT_SECONDARY": [
+      "#ffffff"
+    ],
+    "TEXT_WARNING": [
+      "#7a8c2a"
+    ],
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#000000"
+    ],
+    "TOAST_BG": [
+      "#000000"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#000000"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#000000"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "#000000"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "WHITE": [
+      "#ffffff"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#7a8c2a"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#7a8c2a"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#000000"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#000000"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#0d0d0d"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#0d0d0d"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#000000"
+    ],
+    "MENTION_BADGE": [
+      "#7a8c2a"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#7a8c2a"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#00000050",
+    "BRAND_260": "#7a8c2a",
+    "BRAND_360": "#7a8c2a",
+    "BRAND_560": "#000000",
+    "BRAND_500": "#7a8c2a",
+    "ORANGE_260": "#7a8c2a",
+    "ORANGE_300": "#7a8c2a",
+    "ORANGE_330": "#7a8c2a",
+    "ORANGE_345": "#7a8c2a",
+    "ORANGE_360": "#7a8c2a",
+    "ORANGE_400": "#7a8c2a",
+    "ORANGE_430": "#6b7a22",
+    "ORANGE_460": "#5c6a1a",
+    "ORANGE_500": "#7a8c2a",
+    "ORANGE_530": "#6b7a22",
+    "ORANGE_560": "#5c6a1a",
+    "ORANGE_600": "#4d5a12",
+    "ORANGE_630": "#3e4a0a",
+    "ORANGE_660": "#2f3a04",
+    "ORANGE_700": "#202a00",
+    "YELLOW_260": "#7a8c2a",
+    "YELLOW_300": "#7a8c2a",
+    "YELLOW_330": "#7a8c2a",
+    "YELLOW_345": "#7a8c2a",
+    "YELLOW_360": "#7a8c2a",
+    "YELLOW_400": "#7a8c2a",
+    "YELLOW_430": "#6b7a22",
+    "YELLOW_460": "#5c6a1a",
+    "YELLOW_500": "#7a8c2a",
+    "YELLOW_530": "#6b7a22",
+    "YELLOW_560": "#5c6a1a",
+    "YELLOW_600": "#4d5a12",
+    "YELLOW_630": "#3e4a0a",
+    "YELLOW_660": "#2f3a04",
+    "YELLOW_700": "#202a00",
+    "RED_430": "#7a8c2a",
+    "PLUM_14": "#0d0d0d",
+    "PRIMARY_800": "#0d0d0d",
+    "PLUM_1": "#ffffff",
+    "PLUM_22": "#000000",
+    "PRIMARY_660": "#000000",
+    "PRIMARY_700": "#000000",
+    "PRIMARY_560": "#000000",
+    "PRIMARY_600": "#000000",
+    "PRIMARY_630": "#000000",
+    "PLUM_15": "#0d0d0d",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#000000",
+    "PLUM_19": "#000000",
+    "PLUM_20": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#000000"
+  },
+  "background": {
+    "url": "",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2,
+  "createdAt": "2026-04-07",
+  "source": "local"
+}
